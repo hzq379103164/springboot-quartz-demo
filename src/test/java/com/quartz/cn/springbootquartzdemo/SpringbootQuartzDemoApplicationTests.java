@@ -12,6 +12,7 @@ public class SpringbootQuartzDemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		System.out.println("lalalalallala");
+		System.out.println("lalalalallala");
 	}
 
 }
