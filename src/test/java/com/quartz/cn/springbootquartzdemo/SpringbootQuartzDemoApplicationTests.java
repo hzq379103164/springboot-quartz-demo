@@ -15,6 +15,7 @@ public class SpringbootQuartzDemoApplicationTests {
 		System.out.println("lalalalallala");
 		System.out.println("lalalalallalalala");
 		System.out.println("xixixixixi");
+		System.out.println("hahahha");
 	}
 
 }
